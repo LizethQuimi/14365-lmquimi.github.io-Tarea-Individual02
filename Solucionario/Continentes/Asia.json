@@ -1,0 +1,24 @@
+{
+  "Asia": {
+    "CHINA": {
+      "BEIJING": ["BEIJING", "SHIJINGSHAN", "DONGCHENG"],
+      "SHANGHAI": ["SHANGHAI", "PUDONG", "XUHUI"],
+      "GUANGZHOU": ["GUANGZHOU", "TIANHE", "HAIZHU"]
+    },
+    "INDIA": {
+      "DELHI": ["DELHI", "NEW DELHI", "NOIDA"],
+      "MUMBAI": ["MUMBAI", "THANE", "NAVI MUMBAI"],
+      "BANGALORE": ["BANGALORE", "WHITEFIELD", "ELECTRONIC CITY"]
+    },
+    "JAPAN": {
+      "TOKYO": ["TOKYO", "SHIBUYA", "SHINJUKU"],
+      "OSAKA": ["OSAKA", "UMEDA", "NAMBA"],
+      "KYOTO": ["KYOTO", "GION", "ARASHIYAMA"]
+    },
+    "SOUTH KOREA": {
+      "SEOUL": ["SEOUL", "GANGNAM", "HONGDAE"],
+      "BUSAN": ["BUSAN", "HAEUNDAE", "CENTUM CITY"],
+      "INCHEON": ["INCHEON", "BUPYEONG", "SONGDO"]
+    }
+  }
+}
